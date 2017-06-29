@@ -1,0 +1,14 @@
+{
+  "name": "kuleuven-gbiomed/collection-utilities",
+  "license": "proprietary",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.9",
+    "doctrine/collections": "~1.3"
+  }
+}
