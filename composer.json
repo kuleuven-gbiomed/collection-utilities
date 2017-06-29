@@ -4,7 +4,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Kuleuven\\Gbiomed\\CollectionUtility\\": "src/CollectionUtility"
+      "Kuleuven\\Gbiomed\\CollectionUtility\\": "src/"
     }
   },
   "require": {
